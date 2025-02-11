@@ -2,6 +2,8 @@ Personal Projetc: Sales Data Analysis Project
 Owner: Abdoulaye Diakhaté
 LinkedIn: https://www.linkedin.com/in/a-diakhate-5a998265/
 
+Source: https://www.kaggle.com/datasets/arkhepacis/sales-customers-products-and-customers?resource=download
+
 📌 Introduction
 
 This project is an exploratory data analysis (EDA) and visualization of a sales dataset sourced from Kaggle. The dataset contains information about sales transactions, customers, and products, allowing us to uncover key insights and trends.
