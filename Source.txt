@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/arkhepacis/sales-customers-products-and-customers?resource=download
+source File: Calculated Field Examples.xlsx
